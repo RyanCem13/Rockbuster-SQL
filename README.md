@@ -29,7 +29,7 @@ The data was provided by Career Foundry. The data set worked on contained a rela
 - Staff
 - Store
 # Visualizations
-Visualizations were created in Tableau. The link to the storyboard can be found here
+Visualizations were created in Tableau. The Powerpoint Presentation is uploaded to the main branch of this project.
 # Skills
 - Cleaning data
 - Joining tables
